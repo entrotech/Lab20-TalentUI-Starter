@@ -12,7 +12,7 @@
         <Style TargetType="Button">
             <Setter Property="Margin" Value="4" />
         </Style>
-        <Style TargetType="TextBox" >
+        <Style TargetType="TextBox">
             <Setter Property="Margin" Value="4" />
         </Style>
         <Style TargetType="CheckBox" >
